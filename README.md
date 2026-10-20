@@ -1,7 +1,7 @@
 <!-- Header -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0B1F33,65:12324A,100:5C3A0A&text=Haoran%20Tu%20%28Willa1m%29&fontSize=46&fontColor=F2E6CF&fontAlignY=36&desc=Data%20Science%20%40%20Boston%20University%20%2726&descSize=18&descAlignY=58&animation=fadeIn&section=header">
-  <img alt="Haoran Tu (Willa1m) — Data Science @ Boston University '26" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:F4F1EA,65:F6E7C8,100:F2C477&text=Haoran%20Tu%20%28Willa1m%29&fontSize=46&fontColor=0B1F33&fontAlignY=36&desc=Data%20Science%20%40%20Boston%20University%20%2726&descSize=18&descAlignY=58&animation=fadeIn&section=header" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:1B4B6E,55:2A6283,100:C8891F&fontColor=FFF6E5&text=Haoran%20Tu%20%28Willa1m%29&fontSize=46&fontAlignY=38&desc=Data%20Science%20%40%20Boston%20University%20%2726&descSize=18&descAlignY=62&section=header&animation=none">
+  <img alt="Haoran Tu (Willa1m) — Data Science @ Boston University '26" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:9FBCD0,55:E7CF9F,100:E09A2C&fontColor=0B1F33&text=Haoran%20Tu%20%28Willa1m%29&fontSize=46&fontAlignY=38&desc=Data%20Science%20%40%20Boston%20University%20%2726&descSize=18&descAlignY=62&section=header&animation=none" width="100%">
 </picture>
 
 <p align="center">
@@ -12,9 +12,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/haoran-tu-22501432a"><img alt="LinkedIn: Haoran Tu" src="https://img.shields.io/badge/LinkedIn-Haoran%20Tu-F5C26B?style=for-the-badge&logo=linkedin&logoColor=F5C26B&labelColor=0B1F33"></a>
-  <a href="mailto:haorantu@bu.edu"><img alt="Email: haorantu@bu.edu" src="https://img.shields.io/badge/Email-haorantu%40bu.edu-F5C26B?style=for-the-badge&labelColor=0B1F33"></a>
-  <img alt="Location: Boston, MA" src="https://img.shields.io/badge/Location-Boston%2C%20MA-F5C26B?style=for-the-badge&logo=googlemaps&logoColor=F5C26B&labelColor=0B1F33">
+  <a href="https://www.linkedin.com/in/haoran-tu-22501432a"><img alt="LinkedIn: Haoran Tu" src="https://img.shields.io/badge/LinkedIn-Haoran%20Tu-12324A?style=for-the-badge&logo=linkedin&logoColor=F5C26B&labelColor=0B1F33"></a>
+  <a href="mailto:haorantu@bu.edu"><img alt="Email: haorantu@bu.edu" src="https://img.shields.io/badge/Email-haorantu%40bu.edu-12324A?style=for-the-badge&labelColor=0B1F33"></a>
+  <img alt="Location: Boston, MA" src="https://img.shields.io/badge/Location-Boston%2C%20MA-12324A?style=for-the-badge&logo=googlemaps&logoColor=F5C26B&labelColor=0B1F33">
   <img alt="Status: Open to Work" src="https://img.shields.io/badge/Status-Open%20to%20Work-F5C26B?style=for-the-badge&labelColor=0B1F33">
 </p>
 
@@ -26,8 +26,7 @@
 ## 01 · About
 
 I'm Haoran, a Data Science graduate from Boston University (B.S., minor in Business Administration & Management, finished in three years).
-I like building things end to end — data pipelines, ML models, and the interfaces people use to read the results — and I prefer work that can be reproduced and checked.
-Recent work: a court-records investigation for a borrower-rights nonprofit (BU Spark!), the frontend of a 3D reconstruction platform, and dexterous-hand motion debugging at CloudMinds Robotics.
+I build things end to end — data pipelines, ML models, and the interfaces people use to read the results — and I prefer work that can be reproduced and checked.
 
 - **Looking for** — Applied AI / ML Engineering · Embodied AI & Robotics · Data / Analytics Engineering · entry-level Software Engineering
 - **Working on** — a PancakeSwap V3 LP monitor on BSC with exact on-chain math
@@ -61,6 +60,7 @@ Recent work: a court-records investigation for a borrower-rights nonprofit (BU S
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,rust,js,bash,r&theme=dark">
   <img alt="Python, Rust, JavaScript, Bash, R" src="https://skillicons.dev/icons?i=py,rust,js,bash,r&theme=light">
 </picture>
+<br>
 <img alt="SQL" src="https://img.shields.io/badge/SQL-0B1F33?style=flat-square">
 </td>
 </tr>
@@ -71,6 +71,7 @@ Recent work: a court-records investigation for a borrower-rights nonprofit (BU S
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=pytorch,sklearn&theme=dark">
   <img alt="PyTorch, scikit-learn" src="https://skillicons.dev/icons?i=pytorch,sklearn&theme=light">
 </picture>
+<br>
 <img alt="Hugging Face Diffusers" src="https://img.shields.io/badge/HF%20Diffusers-0B1F33?style=flat-square&logo=huggingface&logoColor=F5C26B">
 <img alt="Pandas" src="https://img.shields.io/badge/Pandas-0B1F33?style=flat-square&logo=pandas&logoColor=F5C26B">
 <img alt="NumPy" src="https://img.shields.io/badge/NumPy-0B1F33?style=flat-square&logo=numpy&logoColor=F5C26B">
@@ -86,6 +87,7 @@ Recent work: a court-records investigation for a borrower-rights nonprofit (BU S
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,threejs,flask,fastapi&theme=dark">
   <img alt="React, Three.js, Flask, FastAPI" src="https://skillicons.dev/icons?i=react,threejs,flask,fastapi&theme=light">
 </picture>
+<br>
 <img alt="REST APIs" src="https://img.shields.io/badge/REST%20APIs-0B1F33?style=flat-square">
 <img alt="WebSockets" src="https://img.shields.io/badge/WebSockets-0B1F33?style=flat-square">
 </td>
@@ -97,6 +99,7 @@ Recent work: a court-records investigation for a borrower-rights nonprofit (BU S
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,nginx,redis,mysql,mongodb,git,linux&theme=dark">
   <img alt="Docker, Nginx, Redis, MySQL, MongoDB, Git, Linux" src="https://skillicons.dev/icons?i=docker,nginx,redis,mysql,mongodb,git,linux&theme=light">
 </picture>
+<br>
 <img alt="Docker Compose" src="https://img.shields.io/badge/Docker%20Compose-0B1F33?style=flat-square&logo=docker&logoColor=F5C26B">
 <img alt="HPC and SGE batch scheduling" src="https://img.shields.io/badge/HPC%20%2F%20SGE-0B1F33?style=flat-square">
 <img alt="CAN bus debugging" src="https://img.shields.io/badge/CAN%20bus-0B1F33?style=flat-square">
@@ -106,7 +109,7 @@ Recent work: a court-records investigation for a borrower-rights nonprofit (BU S
 
 ## 03 · Lab Entries
 
-<sub>Each entry: the question, what I built, and what the repository can actually show.</sub>
+<sub>Each entry: the question I started from, and what the repository can actually show.</sub>
 
 <table>
 <tr>
@@ -114,10 +117,9 @@ Recent work: a court-records investigation for a borrower-rights nonprofit (BU S
 <sub><b>ENTRY 01</b> · data engineering · on-chain</sub>
 <h4><a href="https://github.com/Willa1m/BSC_PancakeSwap_monitoring_Demo">PancakeSwap V3 LP Monitor</a></h4>
 <b>Question</b> — How do you collect LP data that survives restarts and can be checked against the chain?<br>
-<b>Built</b> — Idempotent ingestion keyed on <code>(tx_hash, log_index)</code>, checkpointed resumes, Decimal V3 math, net-fee accounting, outbox-based Telegram alerts.<br>
 <b>Evidence</b> — 9/9 tests · backfill and chain-vs-DB verify endpoints · <i>work in progress</i>
 <br><br>
-<code>FastAPI</code> <code>web3.py</code> <code>SQLAlchemy</code> <code>pytest</code>
+<code>FastAPI</code> <code>web3.py</code> <code>SQLAlchemy</code> <code>Decimal math</code>
 <br>
 <sub>BSC 链上流动性仓位监控：断点续采、唯一约束去重、手续费核算（开发中）</sub>
 </td>
@@ -125,10 +127,9 @@ Recent work: a court-records investigation for a borrower-rights nonprofit (BU S
 <sub><b>ENTRY 02</b> · backend · infra · internship</sub>
 <h4><a href="https://github.com/Willa1m/crypto-monitoring-plus">Crypto Monitoring Plus</a></h4>
 <b>Question</b> — How should a price dashboard behave when its cache goes down?<br>
-<b>Built</b> — BTC/ETH minute/hour/day storage in MySQL; a Flask REST API that reads Redis first and falls back to the database; a five-container Docker Compose stack.<br>
 <b>Evidence</b> — fallback path in <code>crypto_web_app.py</code> · Compose health checks
 <br><br>
-<code>Flask</code> <code>Redis</code> <code>MySQL</code> <code>Nginx</code> <code>Docker Compose</code>
+<code>Flask</code> <code>Redis → MySQL</code> <code>Nginx</code> <code>Compose</code>
 <br>
 <sub>实习期间的行情监控原型：多粒度存储、缓存回退、容器化编排</sub>
 </td>
@@ -138,10 +139,9 @@ Recent work: a court-records investigation for a borrower-rights nonprofit (BU S
 <sub><b>ENTRY 03</b> · full stack · documents</sub>
 <h4><a href="https://github.com/Willa1m/What_Format">What Format</a></h4>
 <b>Question</b> — How far can plain rules go in parsing resume sections?<br>
-<b>Built</b> — A FastAPI pipeline (parse → extract → template → DOCX), a keyword / regex / synonym classifier, and a bilingual Three.js web UI.<br>
 <b>Evidence</b> — rule set in <code>smart_classifier.py</code> · accuracy not measured yet
 <br><br>
-<code>FastAPI</code> <code>python-docx</code> <code>pdfplumber</code> <code>Three.js</code>
+<code>FastAPI</code> <code>PDF/DOCX</code> <code>Three.js</code> <code>i18n</code>
 <br>
 <sub>简历与求职信格式整理工具：规则式分段识别，中英双语前端</sub>
 </td>
@@ -149,10 +149,9 @@ Recent work: a court-records investigation for a borrower-rights nonprofit (BU S
 <sub><b>ENTRY 04</b> · machine learning · DS 340</sub>
 <h4><a href="https://github.com/Willa1m/DS340_Finalproject">EUR/USD Forecasting with News Sentiment</a></h4>
 <b>Question</b> — Does daily news sentiment help an LSTM forecast EUR/USD?<br>
-<b>Built</b> — A three-source news scraper, daily VADER sentiment, and one LSTM per source (team of two).<br>
 <b>Evidence</b> — not shown: no price-only baseline and one week of data; the README has a written retrospective
 <br><br>
-<code>PyTorch</code> <code>LSTM</code> <code>NLTK</code> <code>VADER</code>
+<code>PyTorch</code> <code>LSTM</code> <code>VADER</code> <code>3-source scraper</code>
 <br>
 <sub>双人课程项目：LSTM 结合新闻情感预测汇率，并如实复盘结论的局限</sub>
 </td>
@@ -162,10 +161,9 @@ Recent work: a court-records investigation for a borrower-rights nonprofit (BU S
 <sub><b>ENTRY 05</b> · algorithms · Rust · DS 210</sub>
 <h4><a href="https://github.com/Willa1m/Haoran-Tu-Project">Game Platform Graph Analysis</a></h4>
 <b>Question</b> — Which game platforms sit at the center of the release network?<br>
-<b>Built</b> — A petgraph platform graph with degree distribution, closeness centrality, average path length and a densest-subgraph heuristic.<br>
 <b>Evidence</b> — <code>cargo build</code> ✓ · 2 unit tests
 <br><br>
-<code>Rust</code> <code>petgraph</code> <code>graph algorithms</code>
+<code>Rust</code> <code>petgraph</code> <code>centrality</code> <code>densest subgraph</code>
 <br>
 <sub>Rust 课程项目：游戏平台关系图的度分布、中心性与稠密子图分析</sub>
 </td>
@@ -173,10 +171,9 @@ Recent work: a court-records investigation for a borrower-rights nonprofit (BU S
 <sub><b>ENTRY 06</b> · simulation · testing</sub>
 <h4><a href="https://github.com/Willa1m/AutoBattle_Game">AutoBattle Engine</a></h4>
 <b>Question</b> — Can a game's rules be built and verified before any UI exists?<br>
-<b>Built</b> — A standard-library-only auto-battler engine: board, shop, synergies, talents, equipment, battle simulator.<br>
 <b>Evidence</b> — 63 tests passing (unittest and pytest)
 <br><br>
-<code>Python</code> <code>unittest</code> <code>simulation</code>
+<code>Python stdlib</code> <code>unittest</code> <code>battle simulator</code>
 <br>
 <sub>中国神话题材自走棋引擎，63 个测试覆盖核心逻辑</sub>
 </td>
@@ -185,11 +182,11 @@ Recent work: a court-records investigation for a borrower-rights nonprofit (BU S
 
 ## 04 · Field Log
 
-| When | Role | What I did |
-|---|---|---|
-| 2026 Spring | **Data Analyst (team)** · BU Spark! × MassMutual × Protect Borrowers | Filtered ~3.7M Massachusetts court records to ~31K Synchrony-related and ~1K CareCredit / medical-credit candidates with SQL and regex; visualized judgment amounts and court-level concentration. |
-| 2025 Summer | **Software Development Intern** · PowSell Technology (Shenzhen) | Built a BTC/ETH price-monitoring prototype with AI-assisted development under a project lead: Flask REST API, Redis cache with DB fallback, Docker Compose. |
-| 2024 Summer | **Intern, Robots & Devices HW** · CloudMinds Robotics (Shenzhen) | Motion debugging and hardware validation for a 6-DoF dexterous hand over CAN bus; traced a power fault from the current readings returned by the protocol. |
+| Role | What I did |
+|---|---|
+| **Data Analyst (team)**<br>BU Spark! × MassMutual × Protect Borrowers<br><sub>2026 Spring · Boston</sub> | Filtered ~3.7M Massachusetts court records to ~31K Synchrony-related and ~1K CareCredit / medical-credit candidates with SQL and regex; visualized judgment amounts and court-level concentration. |
+| **Software Development Intern**<br>PowSell Technology<br><sub>2025 Summer · Shenzhen</sub> | Built a BTC/ETH price-monitoring prototype with AI-assisted development under a project lead: Flask REST API, Redis cache with DB fallback, Docker Compose. |
+| **Intern, Robots & Devices HW**<br>CloudMinds Robotics<br><sub>2024 Summer · Shenzhen</sub> | Motion debugging and hardware validation for a 6-DoF dexterous hand over CAN bus; traced a power fault from the current readings returned by the protocol. |
 
 **Selected coursework** — code not public; write-ups coming soon
 
@@ -199,10 +196,6 @@ Recent work: a court-records investigation for a borrower-rights nonprofit (BU S
 ## 05 · Activity
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg">
-    <img alt="GitHub stats summary" src="./profile-summary-card-output/github/3-stats.svg" height="170">
-  </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/2-most-commit-language.svg">
     <img alt="Most-committed languages" src="./profile-summary-card-output/github/2-most-commit-language.svg" height="170">
@@ -218,6 +211,6 @@ Recent work: a court-records investigation for a borrower-rights nonprofit (BU S
 
 <!-- Footer -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:5C3A0A,35:12324A,100:0B1F33">
-  <img alt="Footer wave" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:F2C477,35:F6E7C8,100:F4F1EA" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&animation=none&color=0:C8891F,45:2A6283,100:1B4B6E">
+  <img alt="Footer wave" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&animation=none&color=0:E09A2C,45:E7CF9F,100:9FBCD0" width="100%">
 </picture>
