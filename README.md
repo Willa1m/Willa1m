@@ -1,21 +1,21 @@
 <!-- Header -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0D1117,45:2A1C06,100:5C3A0A&text=Haoran%20Tu%20%28Willa1m%29&fontSize=48&fontColor=F5C26B&fontAlignY=40&stroke=FFE7A8&strokeWidth=1&desc=Data%20Science%20%40%20Boston%20University%20%2726&descSize=18&descAlignY=62&animation=fadeIn&section=header">
-  <img alt="Haoran Tu (Willa1m) — Data Science @ Boston University '26" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:FFF8EB,55:FCE3B0,100:F2C477&text=Haoran%20Tu%20%28Willa1m%29&fontSize=48&fontColor=7C4A03&fontAlignY=40&stroke=B45309&strokeWidth=1&desc=Data%20Science%20%40%20Boston%20University%20%2726&descSize=18&descAlignY=62&animation=fadeIn&section=header" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0B1F33,65:12324A,100:5C3A0A&text=Haoran%20Tu%20%28Willa1m%29&fontSize=46&fontColor=F2E6CF&fontAlignY=36&desc=Data%20Science%20%40%20Boston%20University%20%2726&descSize=18&descAlignY=58&animation=fadeIn&section=header">
+  <img alt="Haoran Tu (Willa1m) — Data Science @ Boston University '26" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:F4F1EA,65:F6E7C8,100:F2C477&text=Haoran%20Tu%20%28Willa1m%29&fontSize=46&fontColor=0B1F33&fontAlignY=36&desc=Data%20Science%20%40%20Boston%20University%20%2726&descSize=18&descAlignY=58&animation=fadeIn&section=header" width="100%">
 </picture>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=1200&color=F5C26B&center=true&vCenter=true&width=640&height=40&lines=%3E+Data+Scientist+%C2%B7+ML+Engineer;%3E+Building+reproducible+on-chain+data+pipelines;%3E+Turning+messy+data+into+decisions;%3E+From+dexterous-hand+debugging+to+3D+web+viewers">
-    <img alt="Data Scientist · ML Engineer — Building reproducible on-chain data pipelines — Turning messy data into decisions — From dexterous-hand debugging to 3D web viewers" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=1200&color=B45309&center=true&vCenter=true&width=640&height=40&lines=%3E+Data+Scientist+%C2%B7+ML+Engineer;%3E+Building+reproducible+on-chain+data+pipelines;%3E+Turning+messy+data+into+decisions;%3E+From+dexterous-hand+debugging+to+3D+web+viewers">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3200&pause=1400&color=F5C26B&center=true&vCenter=true&width=640&height=40&lines=Data+Scientist+%C2%B7+ML+Engineer;Building+reproducible+on-chain+data+pipelines;Turning+messy+data+into+decisions;From+dexterous-hand+debugging+to+3D+web+viewers">
+    <img alt="Data Scientist · ML Engineer — Building reproducible on-chain data pipelines — Turning messy data into decisions — From dexterous-hand debugging to 3D web viewers" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3200&pause=1400&color=B45309&center=true&vCenter=true&width=640&height=40&lines=Data+Scientist+%C2%B7+ML+Engineer;Building+reproducible+on-chain+data+pipelines;Turning+messy+data+into+decisions;From+dexterous-hand+debugging+to+3D+web+viewers">
   </picture>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/haoran-tu-22501432a"><img alt="LinkedIn: Haoran Tu" src="https://img.shields.io/badge/LinkedIn-Haoran%20Tu-F5A524?style=for-the-badge&logo=linkedin&logoColor=F5C26B&labelColor=0D1117"></a>
-  <a href="mailto:haorantu@bu.edu"><img alt="Email: haorantu@bu.edu" src="https://img.shields.io/badge/Email-haorantu%40bu.edu-F5A524?style=for-the-badge&labelColor=0D1117"></a>
-  <img alt="Location: Boston, MA" src="https://img.shields.io/badge/Location-Boston%2C%20MA-F5A524?style=for-the-badge&logo=googlemaps&logoColor=F5C26B&labelColor=0D1117">
-  <img alt="Status: Open to Work" src="https://img.shields.io/badge/Status-Open%20to%20Work-F5A524?style=for-the-badge&labelColor=0D1117">
+  <a href="https://www.linkedin.com/in/haoran-tu-22501432a"><img alt="LinkedIn: Haoran Tu" src="https://img.shields.io/badge/LinkedIn-Haoran%20Tu-F5C26B?style=for-the-badge&logo=linkedin&logoColor=F5C26B&labelColor=0B1F33"></a>
+  <a href="mailto:haorantu@bu.edu"><img alt="Email: haorantu@bu.edu" src="https://img.shields.io/badge/Email-haorantu%40bu.edu-F5C26B?style=for-the-badge&labelColor=0B1F33"></a>
+  <img alt="Location: Boston, MA" src="https://img.shields.io/badge/Location-Boston%2C%20MA-F5C26B?style=for-the-badge&logo=googlemaps&logoColor=F5C26B&labelColor=0B1F33">
+  <img alt="Status: Open to Work" src="https://img.shields.io/badge/Status-Open%20to%20Work-F5C26B?style=for-the-badge&labelColor=0B1F33">
 </p>
 
 <picture>
@@ -23,19 +23,16 @@
   <img alt="Section divider" src="./assets/divider-light.svg" width="100%">
 </picture>
 
-## `$ whoami`
+## 01 · About
 
 I'm Haoran, a Data Science graduate from Boston University (B.S., minor in Business Administration & Management, finished in three years).
 I like building things end to end — data pipelines, ML models, and the interfaces people use to read the results — and I prefer work that can be reproduced and checked.
 Recent work: a court-records investigation for a borrower-rights nonprofit (BU Spark!), the frontend of a 3D reconstruction platform, and dexterous-hand motion debugging at CloudMinds Robotics.
 
-```text
-looking_for   Applied AI / ML Engineering · Embodied AI & Robotics
-              Data / Analytics Engineering · Software Engineering (entry level)
-working_on    PancakeSwap V3 LP monitor on BSC (exact on-chain math)
-based_in      Boston, MA
-off_hours     Trumpet, Grade 10 (Shanghai Conservatory) · HiMCM Second Prize
-```
+- **Looking for** — Applied AI / ML Engineering · Embodied AI & Robotics · Data / Analytics Engineering · entry-level Software Engineering
+- **Working on** — a PancakeSwap V3 LP monitor on BSC with exact on-chain math
+- **Based in** — Boston, MA
+- **Off hours** — Trumpet, Grade 10 (Shanghai Conservatory of Music) · HiMCM Second Prize
 
 <details>
 <summary>🇨🇳 中文简介</summary>
@@ -54,7 +51,7 @@ off_hours     Trumpet, Grade 10 (Shanghai Conservatory) · HiMCM Second Prize
 
 </details>
 
-## `$ cat stack.txt`
+## 02 · Toolkit
 
 <table>
 <tr>
@@ -64,7 +61,7 @@ off_hours     Trumpet, Grade 10 (Shanghai Conservatory) · HiMCM Second Prize
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,rust,js,bash,r&theme=dark">
   <img alt="Python, Rust, JavaScript, Bash, R" src="https://skillicons.dev/icons?i=py,rust,js,bash,r&theme=light">
 </picture>
-<img alt="SQL" src="https://img.shields.io/badge/SQL-161B22?style=flat-square">
+<img alt="SQL" src="https://img.shields.io/badge/SQL-0B1F33?style=flat-square">
 </td>
 </tr>
 <tr>
@@ -74,12 +71,12 @@ off_hours     Trumpet, Grade 10 (Shanghai Conservatory) · HiMCM Second Prize
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=pytorch,sklearn&theme=dark">
   <img alt="PyTorch, scikit-learn" src="https://skillicons.dev/icons?i=pytorch,sklearn&theme=light">
 </picture>
-<img alt="Hugging Face Diffusers" src="https://img.shields.io/badge/HF%20Diffusers-161B22?style=flat-square&logo=huggingface&logoColor=F5C26B">
-<img alt="Pandas" src="https://img.shields.io/badge/Pandas-161B22?style=flat-square&logo=pandas&logoColor=F5C26B">
-<img alt="NumPy" src="https://img.shields.io/badge/NumPy-161B22?style=flat-square&logo=numpy&logoColor=F5C26B">
-<img alt="EfficientNet" src="https://img.shields.io/badge/EfficientNet-161B22?style=flat-square">
-<img alt="Nerfstudio" src="https://img.shields.io/badge/Nerfstudio-161B22?style=flat-square">
-<img alt="COLMAP" src="https://img.shields.io/badge/COLMAP-161B22?style=flat-square">
+<img alt="Hugging Face Diffusers" src="https://img.shields.io/badge/HF%20Diffusers-0B1F33?style=flat-square&logo=huggingface&logoColor=F5C26B">
+<img alt="Pandas" src="https://img.shields.io/badge/Pandas-0B1F33?style=flat-square&logo=pandas&logoColor=F5C26B">
+<img alt="NumPy" src="https://img.shields.io/badge/NumPy-0B1F33?style=flat-square&logo=numpy&logoColor=F5C26B">
+<img alt="EfficientNet" src="https://img.shields.io/badge/EfficientNet-0B1F33?style=flat-square">
+<img alt="Nerfstudio" src="https://img.shields.io/badge/Nerfstudio-0B1F33?style=flat-square">
+<img alt="COLMAP" src="https://img.shields.io/badge/COLMAP-0B1F33?style=flat-square">
 </td>
 </tr>
 <tr>
@@ -89,8 +86,8 @@ off_hours     Trumpet, Grade 10 (Shanghai Conservatory) · HiMCM Second Prize
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,threejs,flask,fastapi&theme=dark">
   <img alt="React, Three.js, Flask, FastAPI" src="https://skillicons.dev/icons?i=react,threejs,flask,fastapi&theme=light">
 </picture>
-<img alt="REST APIs" src="https://img.shields.io/badge/REST%20APIs-161B22?style=flat-square">
-<img alt="WebSockets" src="https://img.shields.io/badge/WebSockets-161B22?style=flat-square">
+<img alt="REST APIs" src="https://img.shields.io/badge/REST%20APIs-0B1F33?style=flat-square">
+<img alt="WebSockets" src="https://img.shields.io/badge/WebSockets-0B1F33?style=flat-square">
 </td>
 </tr>
 <tr>
@@ -100,28 +97,36 @@ off_hours     Trumpet, Grade 10 (Shanghai Conservatory) · HiMCM Second Prize
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,nginx,redis,mysql,mongodb,git,linux&theme=dark">
   <img alt="Docker, Nginx, Redis, MySQL, MongoDB, Git, Linux" src="https://skillicons.dev/icons?i=docker,nginx,redis,mysql,mongodb,git,linux&theme=light">
 </picture>
-<img alt="Docker Compose" src="https://img.shields.io/badge/Docker%20Compose-161B22?style=flat-square&logo=docker&logoColor=F5C26B">
-<img alt="HPC and SGE batch scheduling" src="https://img.shields.io/badge/HPC%20%2F%20SGE-161B22?style=flat-square">
-<img alt="CAN bus debugging" src="https://img.shields.io/badge/CAN%20bus-161B22?style=flat-square">
+<img alt="Docker Compose" src="https://img.shields.io/badge/Docker%20Compose-0B1F33?style=flat-square&logo=docker&logoColor=F5C26B">
+<img alt="HPC and SGE batch scheduling" src="https://img.shields.io/badge/HPC%20%2F%20SGE-0B1F33?style=flat-square">
+<img alt="CAN bus debugging" src="https://img.shields.io/badge/CAN%20bus-0B1F33?style=flat-square">
 </td>
 </tr>
 </table>
 
-## `$ ls ./featured`
+## 03 · Lab Entries
+
+<sub>Each entry: the question, what I built, and what the repository can actually show.</sub>
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<h4><a href="https://github.com/Willa1m/BSC_PancakeSwap_monitoring_Demo">▍PancakeSwap V3 LP Monitor</a></h4>
-Idempotent on-chain ingestion with checkpointed resumes, Decimal-exact V3 math, net-fee accounting and Telegram alerts. <i>Work in progress.</i>
+<sub><b>ENTRY 01</b> · data engineering · on-chain</sub>
+<h4><a href="https://github.com/Willa1m/BSC_PancakeSwap_monitoring_Demo">PancakeSwap V3 LP Monitor</a></h4>
+<b>Question</b> — How do you collect LP data that survives restarts and can be checked against the chain?<br>
+<b>Built</b> — Idempotent ingestion keyed on <code>(tx_hash, log_index)</code>, checkpointed resumes, Decimal V3 math, net-fee accounting, outbox-based Telegram alerts.<br>
+<b>Evidence</b> — 9/9 tests · backfill and chain-vs-DB verify endpoints · <i>work in progress</i>
 <br><br>
 <code>FastAPI</code> <code>web3.py</code> <code>SQLAlchemy</code> <code>pytest</code>
 <br>
 <sub>BSC 链上流动性仓位监控：断点续采、唯一约束去重、手续费核算（开发中）</sub>
 </td>
 <td width="50%" valign="top">
-<h4><a href="https://github.com/Willa1m/crypto-monitoring-plus">▍Crypto Monitoring Plus</a></h4>
-BTC/ETH price-monitoring prototype from my 2025 internship: minute/hour/day storage, Flask REST API, Redis cache with database fallback, Docker Compose stack.
+<sub><b>ENTRY 02</b> · backend · infra · internship</sub>
+<h4><a href="https://github.com/Willa1m/crypto-monitoring-plus">Crypto Monitoring Plus</a></h4>
+<b>Question</b> — How should a price dashboard behave when its cache goes down?<br>
+<b>Built</b> — BTC/ETH minute/hour/day storage in MySQL; a Flask REST API that reads Redis first and falls back to the database; a five-container Docker Compose stack.<br>
+<b>Evidence</b> — fallback path in <code>crypto_web_app.py</code> · Compose health checks
 <br><br>
 <code>Flask</code> <code>Redis</code> <code>MySQL</code> <code>Nginx</code> <code>Docker Compose</code>
 <br>
@@ -130,65 +135,68 @@ BTC/ETH price-monitoring prototype from my 2025 internship: minute/hour/day stor
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h4><a href="https://github.com/Willa1m/What_Format">▍What Format</a></h4>
-Reformats resumes and cover letters: parses PDF/DOCX, classifies sections with rules and regex, and serves a bilingual Three.js web UI.
+<sub><b>ENTRY 03</b> · full stack · documents</sub>
+<h4><a href="https://github.com/Willa1m/What_Format">What Format</a></h4>
+<b>Question</b> — How far can plain rules go in parsing resume sections?<br>
+<b>Built</b> — A FastAPI pipeline (parse → extract → template → DOCX), a keyword / regex / synonym classifier, and a bilingual Three.js web UI.<br>
+<b>Evidence</b> — rule set in <code>smart_classifier.py</code> · accuracy not measured yet
 <br><br>
 <code>FastAPI</code> <code>python-docx</code> <code>pdfplumber</code> <code>Three.js</code>
 <br>
 <sub>简历与求职信格式整理工具：规则式分段识别，中英双语前端</sub>
 </td>
 <td width="50%" valign="top">
-<h4><a href="https://github.com/Willa1m/DS340_Finalproject">▍EUR/USD Forecasting with News Sentiment</a></h4>
-Course project (DS 340, team of two): an LSTM forecasts the next-day EUR/USD rate from prices plus daily VADER sentiment scraped from three news sources.
+<sub><b>ENTRY 04</b> · machine learning · DS 340</sub>
+<h4><a href="https://github.com/Willa1m/DS340_Finalproject">EUR/USD Forecasting with News Sentiment</a></h4>
+<b>Question</b> — Does daily news sentiment help an LSTM forecast EUR/USD?<br>
+<b>Built</b> — A three-source news scraper, daily VADER sentiment, and one LSTM per source (team of two).<br>
+<b>Evidence</b> — not shown: no price-only baseline and one week of data; the README has a written retrospective
 <br><br>
 <code>PyTorch</code> <code>LSTM</code> <code>NLTK</code> <code>VADER</code>
 <br>
-<sub>双人课程项目：LSTM 结合新闻情感预测次日汇率</sub>
+<sub>双人课程项目：LSTM 结合新闻情感预测汇率，并如实复盘结论的局限</sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h4><a href="https://github.com/Willa1m/Haoran-Tu-Project">▍Game Platform Graph Analysis</a></h4>
-Course project (DS 210) in Rust: builds a platform graph from release data and computes degree distribution, closeness centrality, average path length and the densest subgraph.
+<sub><b>ENTRY 05</b> · algorithms · Rust · DS 210</sub>
+<h4><a href="https://github.com/Willa1m/Haoran-Tu-Project">Game Platform Graph Analysis</a></h4>
+<b>Question</b> — Which game platforms sit at the center of the release network?<br>
+<b>Built</b> — A petgraph platform graph with degree distribution, closeness centrality, average path length and a densest-subgraph heuristic.<br>
+<b>Evidence</b> — <code>cargo build</code> ✓ · 2 unit tests
 <br><br>
 <code>Rust</code> <code>petgraph</code> <code>graph algorithms</code>
 <br>
 <sub>Rust 课程项目：游戏平台关系图的度分布、中心性与稠密子图分析</sub>
 </td>
 <td width="50%" valign="top">
-<h4><a href="https://github.com/Willa1m/AutoBattle_Game">▍AutoBattle Engine</a></h4>
-Auto-battler game engine in Python with a Chinese-mythology roster: board, shop, synergies and battle simulation, covered by 63 pytest tests.
+<sub><b>ENTRY 06</b> · simulation · testing</sub>
+<h4><a href="https://github.com/Willa1m/AutoBattle_Game">AutoBattle Engine</a></h4>
+<b>Question</b> — Can a game's rules be built and verified before any UI exists?<br>
+<b>Built</b> — A standard-library-only auto-battler engine: board, shop, synergies, talents, equipment, battle simulator.<br>
+<b>Evidence</b> — 63 tests passing (unittest and pytest)
 <br><br>
-<code>Python</code> <code>pytest</code> <code>simulation</code>
+<code>Python</code> <code>unittest</code> <code>simulation</code>
 <br>
 <sub>中国神话题材自走棋引擎，63 个测试覆盖核心逻辑</sub>
 </td>
 </tr>
 </table>
 
-## `$ git log --experience`
+## 04 · Field Log
 
-```text
-2026 Spring  Data Analyst (team) · BU Spark! × MassMutual × Protect Borrowers
-             Filtered ~3.7M Massachusetts court records to ~31K Synchrony-related
-             and ~1K CareCredit / medical-credit candidates with SQL and regex;
-             visualized judgment amounts and court-level concentration.
-
-2025 Summer  Software Development Intern · PowSell Technology (Shenzhen)
-             BTC/ETH price-monitoring prototype, AI-assisted, under a project
-             lead: Flask REST API, Redis cache with DB fallback, Docker Compose.
-
-2024 Summer  Intern, Robots & Devices HW · CloudMinds Robotics (Shenzhen)
-             Motion debugging and hardware validation for a 6-DoF dexterous
-             hand over CAN bus; traced a power fault from protocol current data.
-```
+| When | Role | What I did |
+|---|---|---|
+| 2026 Spring | **Data Analyst (team)** · BU Spark! × MassMutual × Protect Borrowers | Filtered ~3.7M Massachusetts court records to ~31K Synchrony-related and ~1K CareCredit / medical-credit candidates with SQL and regex; visualized judgment amounts and court-level concentration. |
+| 2025 Summer | **Software Development Intern** · PowSell Technology (Shenzhen) | Built a BTC/ETH price-monitoring prototype with AI-assisted development under a project lead: Flask REST API, Redis cache with DB fallback, Docker Compose. |
+| 2024 Summer | **Intern, Robots & Devices HW** · CloudMinds Robotics (Shenzhen) | Motion debugging and hardware validation for a 6-DoF dexterous hand over CAN bus; traced a power fault from the current readings returned by the protocol. |
 
 **Selected coursework** — code not public; write-ups coming soon
 
 - **AI-Driven 3D Architectural Reconstruction** (DS 549, BU Spark!) — I built the frontend: three modules on React + Three.js, a PLY loader, and REST / WebSocket job events. The backend was built by teammates. Early on I set up the Nerfstudio pipeline on the BU SCC GPU cluster (COLMAP poses, 30K-step Nerfacto). Demoed at BU CDS demo day.
 - **Deep Learning** (DS 542) — a ~3.2M-parameter decoder-only Transformer (99.2–100% full-sequence exact match across 10 configs), EfficientNet-B0 fine-tuning on 10 butterfly classes (90.88% val. accuracy), and a 60-epoch DDPM on 22,000 64×64 images via SGE batch jobs.
 
-## `$ ./stats`
+## 05 · Activity
 
 <p align="center">
   <picture>
@@ -206,10 +214,10 @@ Auto-battler game engine in Python with a Chinese-mythology roster: board, shop,
   <img alt="Contribution graph animated as a snake eating the contribution cells" src="https://raw.githubusercontent.com/Willa1m/Willa1m/output/github-snake.svg" width="100%">
 </picture>
 
-<p align="center"><code>exit 0</code> · Thanks for stopping by. Let's build something reliable.</p>
+<p align="center"><sub>End of notebook · Thanks for reading. Reliable systems, honest numbers.</sub></p>
 
 <!-- Footer -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:5C3A0A,55:2A1C06,100:0D1117">
-  <img alt="Footer wave" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:F2C477,55:FCE3B0,100:FFF8EB" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:5C3A0A,35:12324A,100:0B1F33">
+  <img alt="Footer wave" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:F2C477,35:F6E7C8,100:F4F1EA" width="100%">
 </picture>
