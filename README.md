@@ -1,0 +1,215 @@
+<!-- Header -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0D1117,45:2A1C06,100:5C3A0A&text=Haoran%20Tu%20%28Willa1m%29&fontSize=48&fontColor=F5C26B&fontAlignY=40&stroke=FFE7A8&strokeWidth=1&desc=Data%20Science%20%40%20Boston%20University%20%2726&descSize=18&descAlignY=62&animation=fadeIn&section=header">
+  <img alt="Haoran Tu (Willa1m) — Data Science @ Boston University '26" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:FFF8EB,55:FCE3B0,100:F2C477&text=Haoran%20Tu%20%28Willa1m%29&fontSize=48&fontColor=7C4A03&fontAlignY=40&stroke=B45309&strokeWidth=1&desc=Data%20Science%20%40%20Boston%20University%20%2726&descSize=18&descAlignY=62&animation=fadeIn&section=header" width="100%">
+</picture>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=1200&color=F5C26B&center=true&vCenter=true&width=640&height=40&lines=%3E+Data+Scientist+%C2%B7+ML+Engineer;%3E+Building+reproducible+on-chain+data+pipelines;%3E+Turning+messy+data+into+decisions;%3E+From+dexterous-hand+debugging+to+3D+web+viewers">
+    <img alt="Data Scientist · ML Engineer — Building reproducible on-chain data pipelines — Turning messy data into decisions — From dexterous-hand debugging to 3D web viewers" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=1200&color=B45309&center=true&vCenter=true&width=640&height=40&lines=%3E+Data+Scientist+%C2%B7+ML+Engineer;%3E+Building+reproducible+on-chain+data+pipelines;%3E+Turning+messy+data+into+decisions;%3E+From+dexterous-hand+debugging+to+3D+web+viewers">
+  </picture>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/haoran-tu-22501432a"><img alt="LinkedIn: Haoran Tu" src="https://img.shields.io/badge/LinkedIn-Haoran%20Tu-F5A524?style=for-the-badge&logo=linkedin&logoColor=F5C26B&labelColor=0D1117"></a>
+  <a href="mailto:haorantu@bu.edu"><img alt="Email: haorantu@bu.edu" src="https://img.shields.io/badge/Email-haorantu%40bu.edu-F5A524?style=for-the-badge&labelColor=0D1117"></a>
+  <img alt="Location: Boston, MA" src="https://img.shields.io/badge/Location-Boston%2C%20MA-F5A524?style=for-the-badge&logo=googlemaps&logoColor=F5C26B&labelColor=0D1117">
+  <img alt="Status: Open to Work" src="https://img.shields.io/badge/Status-Open%20to%20Work-F5A524?style=for-the-badge&labelColor=0D1117">
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg">
+  <img alt="Section divider" src="./assets/divider-light.svg" width="100%">
+</picture>
+
+## `$ whoami`
+
+I'm Haoran, a Data Science graduate from Boston University (B.S., minor in Business Administration & Management, finished in three years).
+I like building things end to end — data pipelines, ML models, and the interfaces people use to read the results — and I prefer work that can be reproduced and checked.
+Recent work: a court-records investigation for a borrower-rights nonprofit (BU Spark!), the frontend of a 3D reconstruction platform, and dexterous-hand motion debugging at CloudMinds Robotics.
+
+```text
+looking_for   Applied AI / ML Engineering · Embodied AI & Robotics
+              Data / Analytics Engineering · Software Engineering (entry level)
+working_on    PancakeSwap V3 LP monitor on BSC (exact on-chain math)
+based_in      Boston, MA
+off_hours     Trumpet, Grade 10 (Shanghai Conservatory) · HiMCM Second Prize
+```
+
+<details>
+<summary>🇨🇳 中文简介</summary>
+<br>
+
+你好，我是涂皓然。波士顿大学数据科学理学学士，辅修工商管理，用三年读完了学位。
+
+我习惯把一件事从数据一路做到界面：数据管道、模型，以及让人看懂结果的前端。我也更偏爱能复现、能校验的做法，数字要经得起回查。
+
+最近做过的事：在 BU Spark! 为借款人权益组织分析马萨诸塞州法院的医疗信贷催收记录；为一个 3D 建筑重建平台开发前端；在达闼机器人协助灵巧手团队做动作调试和硬件验证。
+
+- 求职方向：AI 应用与机器学习工程、具身智能与机器人、数据分析与分析工程、初级软件工程
+- 正在做：BSC 链上 PancakeSwap V3 流动性仓位监控（开发中）
+- 现居：波士顿
+- 课余：上海音乐学院小号十级；HiMCM 数学建模竞赛二等奖
+
+</details>
+
+## `$ cat stack.txt`
+
+<table>
+<tr>
+<td width="130"><b>Languages</b></td>
+<td>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,rust,js,bash,r&theme=dark">
+  <img alt="Python, Rust, JavaScript, Bash, R" src="https://skillicons.dev/icons?i=py,rust,js,bash,r&theme=light">
+</picture>
+<img alt="SQL" src="https://img.shields.io/badge/SQL-161B22?style=flat-square">
+</td>
+</tr>
+<tr>
+<td><b>ML &amp; Data</b></td>
+<td>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=pytorch,sklearn&theme=dark">
+  <img alt="PyTorch, scikit-learn" src="https://skillicons.dev/icons?i=pytorch,sklearn&theme=light">
+</picture>
+<img alt="Hugging Face Diffusers" src="https://img.shields.io/badge/HF%20Diffusers-161B22?style=flat-square&logo=huggingface&logoColor=F5C26B">
+<img alt="Pandas" src="https://img.shields.io/badge/Pandas-161B22?style=flat-square&logo=pandas&logoColor=F5C26B">
+<img alt="NumPy" src="https://img.shields.io/badge/NumPy-161B22?style=flat-square&logo=numpy&logoColor=F5C26B">
+<img alt="EfficientNet" src="https://img.shields.io/badge/EfficientNet-161B22?style=flat-square">
+<img alt="Nerfstudio" src="https://img.shields.io/badge/Nerfstudio-161B22?style=flat-square">
+<img alt="COLMAP" src="https://img.shields.io/badge/COLMAP-161B22?style=flat-square">
+</td>
+</tr>
+<tr>
+<td><b>Web</b></td>
+<td>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,threejs,flask,fastapi&theme=dark">
+  <img alt="React, Three.js, Flask, FastAPI" src="https://skillicons.dev/icons?i=react,threejs,flask,fastapi&theme=light">
+</picture>
+<img alt="REST APIs" src="https://img.shields.io/badge/REST%20APIs-161B22?style=flat-square">
+<img alt="WebSockets" src="https://img.shields.io/badge/WebSockets-161B22?style=flat-square">
+</td>
+</tr>
+<tr>
+<td><b>Infra</b></td>
+<td>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,nginx,redis,mysql,mongodb,git,linux&theme=dark">
+  <img alt="Docker, Nginx, Redis, MySQL, MongoDB, Git, Linux" src="https://skillicons.dev/icons?i=docker,nginx,redis,mysql,mongodb,git,linux&theme=light">
+</picture>
+<img alt="Docker Compose" src="https://img.shields.io/badge/Docker%20Compose-161B22?style=flat-square&logo=docker&logoColor=F5C26B">
+<img alt="HPC and SGE batch scheduling" src="https://img.shields.io/badge/HPC%20%2F%20SGE-161B22?style=flat-square">
+<img alt="CAN bus debugging" src="https://img.shields.io/badge/CAN%20bus-161B22?style=flat-square">
+</td>
+</tr>
+</table>
+
+## `$ ls ./featured`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h4><a href="https://github.com/Willa1m/BSC_PancakeSwap_monitoring_Demo">▍PancakeSwap V3 LP Monitor</a></h4>
+Idempotent on-chain ingestion with checkpointed resumes, Decimal-exact V3 math, net-fee accounting and Telegram alerts. <i>Work in progress.</i>
+<br><br>
+<code>FastAPI</code> <code>web3.py</code> <code>SQLAlchemy</code> <code>pytest</code>
+<br>
+<sub>BSC 链上流动性仓位监控：断点续采、唯一约束去重、手续费核算（开发中）</sub>
+</td>
+<td width="50%" valign="top">
+<h4><a href="https://github.com/Willa1m/crypto-monitoring-plus">▍Crypto Monitoring Plus</a></h4>
+BTC/ETH price-monitoring prototype from my 2025 internship: minute/hour/day storage, Flask REST API, Redis cache with database fallback, Docker Compose stack.
+<br><br>
+<code>Flask</code> <code>Redis</code> <code>MySQL</code> <code>Nginx</code> <code>Docker Compose</code>
+<br>
+<sub>实习期间的行情监控原型：多粒度存储、缓存回退、容器化编排</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h4><a href="https://github.com/Willa1m/What_Format">▍What Format</a></h4>
+Reformats resumes and cover letters: parses PDF/DOCX, classifies sections with rules and regex, and serves a bilingual Three.js web UI.
+<br><br>
+<code>FastAPI</code> <code>python-docx</code> <code>pdfplumber</code> <code>Three.js</code>
+<br>
+<sub>简历与求职信格式整理工具：规则式分段识别，中英双语前端</sub>
+</td>
+<td width="50%" valign="top">
+<h4><a href="https://github.com/Willa1m/DS340_Finalproject">▍EUR/USD Forecasting with News Sentiment</a></h4>
+Course project (DS 340, team of two): an LSTM forecasts the next-day EUR/USD rate from prices plus daily VADER sentiment scraped from three news sources.
+<br><br>
+<code>PyTorch</code> <code>LSTM</code> <code>NLTK</code> <code>VADER</code>
+<br>
+<sub>双人课程项目：LSTM 结合新闻情感预测次日汇率</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h4><a href="https://github.com/Willa1m/Haoran-Tu-Project">▍Game Platform Graph Analysis</a></h4>
+Course project (DS 210) in Rust: builds a platform graph from release data and computes degree distribution, closeness centrality, average path length and the densest subgraph.
+<br><br>
+<code>Rust</code> <code>petgraph</code> <code>graph algorithms</code>
+<br>
+<sub>Rust 课程项目：游戏平台关系图的度分布、中心性与稠密子图分析</sub>
+</td>
+<td width="50%" valign="top">
+<h4><a href="https://github.com/Willa1m/AutoBattle_Game">▍AutoBattle Engine</a></h4>
+Auto-battler game engine in Python with a Chinese-mythology roster: board, shop, synergies and battle simulation, covered by 63 pytest tests.
+<br><br>
+<code>Python</code> <code>pytest</code> <code>simulation</code>
+<br>
+<sub>中国神话题材自走棋引擎，63 个测试覆盖核心逻辑</sub>
+</td>
+</tr>
+</table>
+
+## `$ git log --experience`
+
+```text
+2026 Spring  Data Analyst (team) · BU Spark! × MassMutual × Protect Borrowers
+             Filtered ~3.7M Massachusetts court records to ~31K Synchrony-related
+             and ~1K CareCredit / medical-credit candidates with SQL and regex;
+             visualized judgment amounts and court-level concentration.
+
+2025 Summer  Software Development Intern · PowSell Technology (Shenzhen)
+             BTC/ETH price-monitoring prototype, AI-assisted, under a project
+             lead: Flask REST API, Redis cache with DB fallback, Docker Compose.
+
+2024 Summer  Intern, Robots & Devices HW · CloudMinds Robotics (Shenzhen)
+             Motion debugging and hardware validation for a 6-DoF dexterous
+             hand over CAN bus; traced a power fault from protocol current data.
+```
+
+**Selected coursework** — code not public; write-ups coming soon
+
+- **AI-Driven 3D Architectural Reconstruction** (DS 549, BU Spark!) — I built the frontend: three modules on React + Three.js, a PLY loader, and REST / WebSocket job events. The backend was built by teammates. Early on I set up the Nerfstudio pipeline on the BU SCC GPU cluster (COLMAP poses, 30K-step Nerfacto). Demoed at BU CDS demo day.
+- **Deep Learning** (DS 542) — a ~3.2M-parameter decoder-only Transformer (99.2–100% full-sequence exact match across 10 configs), EfficientNet-B0 fine-tuning on 10 butterfly classes (90.88% val. accuracy), and a 60-epoch DDPM on 22,000 64×64 images via SGE batch jobs.
+
+## `$ ./stats`
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg">
+    <img alt="GitHub stats summary" src="./profile-summary-card-output/github/3-stats.svg" height="170">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/2-most-commit-language.svg">
+    <img alt="Most-committed languages" src="./profile-summary-card-output/github/2-most-commit-language.svg" height="170">
+  </picture>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Willa1m/Willa1m/output/github-snake-dark.svg">
+  <img alt="Contribution graph animated as a snake eating the contribution cells" src="https://raw.githubusercontent.com/Willa1m/Willa1m/output/github-snake.svg" width="100%">
+</picture>
+
+<p align="center"><code>exit 0</code> · Thanks for stopping by. Let's build something reliable.</p>
+
+<!-- Footer -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:5C3A0A,55:2A1C06,100:0D1117">
+  <img alt="Footer wave" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:F2C477,55:FCE3B0,100:FFF8EB" width="100%">
+</picture>
