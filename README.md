@@ -1,7 +1,7 @@
 <!-- Header -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:1B4B6E,55:2A6283,100:C8891F&fontColor=FFF6E5&text=Haoran%20Tu%20%28Willa1m%29&fontSize=46&fontAlignY=38&desc=Data%20Science%20%40%20Boston%20University%20%2726&descSize=18&descAlignY=62&section=header&animation=none">
-  <img alt="Haoran Tu (Willa1m) — Data Science @ Boston University '26" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:9FBCD0,55:E7CF9F,100:E09A2C&fontColor=0B1F33&text=Haoran%20Tu%20%28Willa1m%29&fontSize=46&fontAlignY=38&desc=Data%20Science%20%40%20Boston%20University%20%2726&descSize=18&descAlignY=62&section=header&animation=none" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
+  <img alt="Haoran Tu (Willa1m) — Data Science @ Boston University '26" src="./assets/header-light.svg" width="100%">
 </picture>
 
 <p align="center">
@@ -208,6 +208,6 @@ I build things end to end — data pipelines, ML models, and the interfaces peop
 
 <!-- Footer -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&animation=none&color=0:C8891F,45:2A6283,100:1B4B6E">
-  <img alt="Footer wave" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&animation=none&color=0:E09A2C,45:E7CF9F,100:9FBCD0" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg">
+  <img alt="Footer wave" src="./assets/footer-light.svg" width="100%">
 </picture>
