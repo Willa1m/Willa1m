@@ -57,7 +57,7 @@ I build things end to end — data pipelines, ML models, and the interfaces peop
 <td width="130"><b>Languages</b></td>
 <td>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,rust,js,bash,r&theme=dark">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Crust%2Cjs%2Cbash%2Cr&theme=dark">
   <img alt="Python, Rust, JavaScript, Bash, R" src="https://skillicons.dev/icons?i=py,rust,js,bash,r&theme=light">
 </picture>
 <br>
@@ -68,7 +68,7 @@ I build things end to end — data pipelines, ML models, and the interfaces peop
 <td><b>ML &amp; Data</b></td>
 <td>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=pytorch,sklearn&theme=dark">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=pytorch%2Csklearn&theme=dark">
   <img alt="PyTorch, scikit-learn" src="https://skillicons.dev/icons?i=pytorch,sklearn&theme=light">
 </picture>
 <br>
@@ -84,7 +84,7 @@ I build things end to end — data pipelines, ML models, and the interfaces peop
 <td><b>Web</b></td>
 <td>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,threejs,flask,fastapi&theme=dark">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react%2Cthreejs%2Cflask%2Cfastapi&theme=dark">
   <img alt="React, Three.js, Flask, FastAPI" src="https://skillicons.dev/icons?i=react,threejs,flask,fastapi&theme=light">
 </picture>
 <br>
@@ -96,7 +96,7 @@ I build things end to end — data pipelines, ML models, and the interfaces peop
 <td><b>Infra</b></td>
 <td>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,nginx,redis,mysql,mongodb,git,linux&theme=dark">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker%2Cnginx%2Credis%2Cmysql%2Cmongodb%2Cgit%2Clinux&theme=dark">
   <img alt="Docker, Nginx, Redis, MySQL, MongoDB, Git, Linux" src="https://skillicons.dev/icons?i=docker,nginx,redis,mysql,mongodb,git,linux&theme=light">
 </picture>
 <br>
