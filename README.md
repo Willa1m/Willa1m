@@ -205,6 +205,7 @@ I build things end to end — data pipelines, ML models, and the interfaces peop
 </picture>
 
 <p align="center"><sub>End of notebook · Thanks for reading. Reliable systems, honest numbers.</sub></p>
+<p align="center"><sub><i>Profile layout and workflows built with AI assistance (Claude Code).</i></sub></p>
 
 <!-- Footer -->
 <picture>
